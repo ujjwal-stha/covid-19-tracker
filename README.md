@@ -19,6 +19,22 @@ https://covid-19-tracker-26c4d.web.app/
 
 # Setup
 
+Clone this repository
+
+- $ git clone https://github.com/ujjwal-stha/covid-19-tracker.git
+
+Go into the repository
+
+- cd tesla-clone
+
+Install dependencies
+
+- $ npm install
+
+Run app
+
+- $ npm start
+
 # Resources
 
 - API used from https://disease.sh/
