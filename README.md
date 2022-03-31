@@ -25,7 +25,7 @@ Clone this repository
 
 Go into the repository
 
-- cd tesla-clone
+- cd covid-19-tracker
 
 Install dependencies
 
